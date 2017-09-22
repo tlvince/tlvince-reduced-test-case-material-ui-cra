@@ -2,6 +2,14 @@
 
 Reduced test case for https://github.com/facebookincubator/create-react-app/issues/3173
 
+## Expected
+
+![expected](expected.png)
+
+## Actual
+
+![actual](actual.png)
+
 ## How to reproduce
 
 ```shell
