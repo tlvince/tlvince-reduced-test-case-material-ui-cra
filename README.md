@@ -11,7 +11,7 @@ cd tlvince-reduced-test-case-material-ui-component
 npm link .
 cd /tmp
 git clone https://github.com/tlvince/tlvince-reduced-test-case-material-ui-cra.git
-cd tlvince-reduced-test-case-material-ui-component
+cd tlvince-reduced-test-case-material-ui-cra
 npm link tlvince-reduced-test-case-material-ui-component
 npm start
 # see app with correct material UI styling, "Dashboard"
